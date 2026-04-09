@@ -1,0 +1,7 @@
+# JSSecretHunter dependencies
+# Core tool uses Python stdlib only — no pip install required.
+#
+# Optional enhancements:
+Pillow>=10.0.0       # Better logo rendering (circular crop)
+PySocks>=1.7.1       # SOCKS4/SOCKS5 proxy support
+brotli>=1.1.0        # Brotli content-encoding support

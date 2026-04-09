@@ -1,0 +1,15 @@
+output/
+logs/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.bak
+.DS_Store
+Thumbs.db
+*.egg-info/
+.env
+.venv/
+venv/
+*.log
+*.tmp
