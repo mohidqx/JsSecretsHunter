@@ -17,9 +17,11 @@
 </div>
 
 ---
+<img width="1400" height="980" alt="image" src="https://github.com/user-attachments/assets/b22379f8-b682-480b-9452-3e43f8d8a694" />
 
 ## ⚠️ Legal Disclaimer
 
+> [!IMPORTANT]
 > **Authorized use only.** For penetration testing, bug bounty, and security research on systems you own or have explicit written permission to test. Unauthorized use is illegal. Authors assume no liability.
 
 ---
