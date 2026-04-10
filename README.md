@@ -1,4 +1,4 @@
-# JSSecretHunter
+# JsSecretHunter
 
 <div align="center">
 
