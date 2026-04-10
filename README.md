@@ -6,11 +6,11 @@
 
 **by [mohidqx](https://github.com/mohidqx) / TeamCyberOps**
 
-![Version](https://img.shields.io/badge/version-4.0.0-red?style=for-the-badge)
-![Python](https://img.shields.io/badge/python-3.10+-blue?style=for-the-badge&logo=python)
-![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20WSL2%20%7C%20Kali-darkgreen?style=for-the-badge)
-![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
-![Patterns](https://img.shields.io/badge/patterns-600+-orange?style=for-the-badge)
+![Version](https://img.shields.io/badge/version-4.0.0-black?style=for-the-badge)
+![Python](https://img.shields.io/badge/python-3.10+-black?style=for-the-badge&logo=python)
+![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20WSL2%20%7C%20Kali-black?style=for-the-badge)
+![License](https://img.shields.io/badge/license-MIT-black?style=for-the-badge)
+![Patterns](https://img.shields.io/badge/patterns-619+-black?style=for-the-badge)
 
 **Production-grade JavaScript secret scanner with dark glass-morphism GUI.**
 
