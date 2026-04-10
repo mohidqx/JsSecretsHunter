@@ -6,7 +6,7 @@
 
 **by [mohidqx](https://github.com/mohidqx) / TeamCyberOps**
 
-![Version](https://img.shields.io/badge/version-3.0.0-red?style=for-the-badge)
+![Version](https://img.shields.io/badge/version-4.0.0-red?style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-3.10+-blue?style=for-the-badge&logo=python)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20WSL2%20%7C%20Kali-darkgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
@@ -15,7 +15,7 @@
 **Production-grade JavaScript secret scanner with dark glass-morphism GUI.**
 
 </div>
-
+<img width="1374" height="933" alt="image" src="https://github.com/user-attachments/assets/395b5661-d69f-44b1-b225-da0b4b8e13bd" />
 ---
 
 ## ⚠️ Legal Disclaimer
@@ -40,7 +40,7 @@ jsSecretsHunter/
 
 ---
 
-## ✨ v3.0.0 Features
+## ✨ v4.0.0 Features
 
 | Feature | Detail |
 |---------|--------|
@@ -155,6 +155,7 @@ Failed proxies are marked and skipped for the session.
 > For SOCKS5 support install: `pip install PySocks`
 
 ---
+<img width="1377" height="967" alt="JsSecretHunter" src="https://github.com/user-attachments/assets/edf1a058-d832-4bec-9bf4-cf39a320b97e" />
 
 ## 📖 GUI Reference
 
